@@ -1,0 +1,61 @@
+---
+title: "Impact and Effectiveness of Marketing Campaign of Portuguese Banking Institution"
+author:  
+ - Sharifovi, Dilafuruz[^1]
+bibliography: ../bibliography/biblio.bib
+csl: ../csl/apa.csl
+header-includes:
+  - \usepackage{polyglossia}
+  - \setmainlanguage{english}
+  - \usepackage{booktabs}
+  - \usepackage{caption} 
+  - \captionsetup[table]{skip=10pt}
+output:
+  bookdown::pdf_document2:
+    fig_caption: yes
+    fig_height: 3
+    fig_width: 4
+    keep_tex: no
+    latex_engine: xelatex
+    number_sections: yes
+    toc: no
+geometry: margin=1in
+link-citations: yes
+urlcolor: blue
+fontsize: 12pt
+biblio-style: apalike
+abstract: |
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
+```
+
+<!-- ======================================================================= -->
+
+<!-- ============================== FOOTNOTES ============================== -->
+
+<!-- ======================================================================= -->
+
+[^1]: 20080946, [Github Repo](https://github.com/DilafuruzSharifovi/20080946.git)
+
+# Summary
+
+In conclusion, this academic paper investigated the influence and effectiveness of marketing campaigns in a specific Portuguese banking institution. The research focused on understanding how these campaigns shaped customer perceptions and preferences, as well as the factors contributing to their success. The analysis of a dataset consisting of 149 observations and 21 variables provided valuable insights into the marketing strategies employed by Portuguese banks. 
+
+The results highlighted how crucial it is to match marketing with the fundamental principles of the banking organization, such trust, openness, and individualized service. By effectively communicating these values through various marketing channels, including traditional and digital platforms, the institution aimed to engage with customers and differentiate itself from competitors. Themes like financial literacy, convenience, and technological innovation were commonly incorporated in these campaigns to educate customers, simplify their financial lives, and demonstrate the value of the institution's products and services. 
+
+Moreover, the study emphasized the significance of personalized marketing efforts based on data analytics and customer insights. The banking company might use consumer data to personalize communications and offers to meet each person's interests and needs, resulting in deeper connections and more customer satisfaction. Corporate social responsibility initiatives were included into marketing campaigns, which strengthened the institution's reputation and made it more appealing to clients who value social responsibility.   
+
+The analysis of the dataset revealed the relationship between predictor variables and the duration of marketing campaigns. The effectiveness of campaigns is impacted by factors like the employment fluctuation rate; higher rates may result in less successful campaigns. The scatter plot visualized the progression of campaigns over time, providing insights into the relationship between campaign stages and duration stages. 
+
+Furthermore, the regression model enabled predictions outside of the observed samples by predicting duration values for new data points. This predictive capability extends the usefulness of the model and provides a basis for future marketing campaign planning and decision-making. 
+
+Overall, this academic paper contributes to the existing knowledge on the role of marketing campaigns in Portuguese banking institutions. By investigating customer perceptions, preferences, and the factors influencing marketing effectiveness, the study provides valuable insights that can guide future marketing strategies. The results highlight the significance of integrating themes of financial literacy and corporate social responsibility, utilizing diverse marketing channels, personalizing marketing efforts, and matching campaigns with core values. By implementing these strategies, banking institutions can establish themselves as trusted financial partners and drive their marketing efforts to new heights within the country. 
+
+  
+
+ 
+
+ 
